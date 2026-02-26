@@ -18,7 +18,7 @@
 
   Layer         URL
   ------------- -----------------------------------------------
-  Frontend      https://personalfinanceflow.netlify.app/login
+  Frontend      https://personalfinanceflow.netlify.app/
   Backend API   https://financeflowapi.onrender.com
 
 ------------------------------------------------------------------------
