@@ -147,9 +147,7 @@ export const goalsApi = {
   delete: (id: string) => request<any>(`/goals/${id}`, { method: "DELETE" }),
 };
 
-/////////////////////
-// Budgets API
-/////////////////////
+
 /////////////////////
 // Budgets API
 /////////////////////
@@ -209,10 +207,6 @@ export const notificationsApi = {
     request<any>("/notifications", { method: "POST", body: JSON.stringify(data) }),
 };
 
-// api.ts - Update to return full analysis
-// src/services/api.ts
-
-// ... (keep all your existing code above, including the store and other APIs)
 
 /////////////////////
 // AI API
